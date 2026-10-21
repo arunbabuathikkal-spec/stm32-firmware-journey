@@ -1,0 +1,17 @@
+# STM32CubeIDE / Eclipse Build folders
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Object and dependency files
+*.o
+*.d
+*.su
+
+# IDE-specific settings
+.settings/
+.launch
+*.ioc.bak
